@@ -1,7 +1,5 @@
 .venv/
 .env
-HEAD
 .idea/
-main
 __pycache__/
 *.pyc
